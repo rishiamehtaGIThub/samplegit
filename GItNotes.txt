@@ -1,0 +1,1 @@
+GIT Central ->Local->  GIT Working Tree-> add -> Storing/Snapshot -> Commit -> Local Repo
